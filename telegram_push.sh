@@ -10,8 +10,8 @@ then
 fi
 
 #텔레그램 봇 정보
-ID="5227371360"
-API_TOKEN="5116595079:AAFsoR66DmWkWM09v7fwu0wQKWJx77hzvdk"
+ID=[chat_id]
+API_TOKEN="[api token]"
 URL="https://api.telegram.org/bot${API_TOKEN}/sendMessage"
 
 #날짜
